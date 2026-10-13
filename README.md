@@ -1,68 +1,79 @@
-<p align="center">
-  <img src="./assets/cyberpunk-banner.svg" alt="Aman Kumar — cyberpunk developer banner" width="100%" />
-</p>
+<h1 align="center">Hi, I'm Aman Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00F5FF?style=for-the-badge&labelColor=080B12" alt="Status: Learning" />
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ML-FF2BD6?style=for-the-badge&labelColor=080B12" alt="Focus: Data and ML" />
-  <img src="https://img.shields.io/badge/BUILD-FULL--STACK-7D5CFF?style=for-the-badge&labelColor=080B12" alt="Building: Full-stack" />
-</p>
-
-<h2 align="center">&gt; SYSTEM PROFILE: AMAN_KUMAR</h2>
-
-```text
-[IDENTITY]   Computer Science Student
-[INTERESTS]  Data Science · Machine Learning · Full-Stack Development
-[MISSION]    Build practical projects, analyze data, keep improving.
-```
-
-## ⚡ `// ABOUT ME`
-
-- Exploring **Data Science, Machine Learning, and data analysis**.
-- Building practical projects to improve my programming and development skills.
-- Interested in using data and software to solve real-world problems.
-- Learning through experimentation, documentation, and hands-on practice.
-
-## 🧩 `// TECH STACK`
-
-<p>
-  <img src="https://img.shields.io/badge/Python-00F5FF?style=flat-square&logo=python&logoColor=080B12" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-FF2BD6?style=flat-square&logo=javascript&logoColor=080B12" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-7D5CFF?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Jupyter-00F5FF?style=flat-square&logo=jupyter&logoColor=080B12" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/HTML5-FF2BD6?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-7D5CFF?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-00F5FF?style=flat-square&logo=react&logoColor=080B12" alt="React" />
-  <img src="https://img.shields.io/badge/Git-FF2BD6?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-7D5CFF?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## 🚀 `// FEATURED PROJECT`
-
-### `01` — Food Waste Prediction & Risk Analysis
-
-A machine learning and data mining project focused on predicting food waste and analyzing waste-related risks.
-
-- **Focus:** Machine Learning · Data Analysis
-- **Repository:** [Open `food-waste-prediction-ml`](https://github.com/theamankalwar/food-waste-prediction-ml)
-
-> Next upgrade: add the dataset source, setup steps, model evaluation metrics, and a results visualization to the project README.
-
-## 🎯 `// CURRENT OBJECTIVES`
-
-- Strengthen Python, SQL, and data analysis fundamentals.
-- Build end-to-end machine learning projects with reproducible results.
-- Improve software engineering and problem-solving skills.
-- Learn by collaborating on projects and exploring open source.
-
-## 🌐 `// ESTABLISH CONNECTION`
-
-<p>
-  <a href="https://github.com/theamankalwar"><img src="https://img.shields.io/badge/GitHub-@theamankalwar-00F5FF?style=for-the-badge&logo=github&logoColor=080B12&labelColor=080B12" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/theamankalwar/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-FF2BD6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B12" alt="LinkedIn profile" /></a>
+  <strong>Computer Science Student · Data Science & Machine Learning · Full-Stack Development</strong>
 </p>
 
 <p align="center">
-  <code>BUILD. ANALYZE. ITERATE.</code><br />
-  <sub>END OF TRANSMISSION // KEEP CREATING</sub>
+  <a href="https://github.com/theamankalwar">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/theamankalwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:theamankalwar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
+
+---
+
+## 👋 A little about me
+
+I'm a Computer Science student who enjoys working at the intersection of **data and software**. I'm exploring Data Science and Machine Learning while growing my web-development skills, and I learn best by turning concepts into practical projects.
+
+- 🔎 Exploring data analysis, machine learning, and ways to make data useful.
+- 💻 Building my foundation in web development and application design.
+- 🧠 Improving my problem-solving skills through practice and experimentation.
+- 🛠️ Learning to make projects clearer, more reproducible, and easier for others to run.
+
+## 🧰 Technologies & tools
+
+**Languages and data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Web development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Featured project
+
+### [Food Waste Prediction & Risk Analysis](https://github.com/theamankalwar/food-waste-prediction-ml)
+
+A machine-learning and data-mining project exploring food-waste prediction and related risk analysis.
+
+**Project focus:** data analysis · machine learning · risk analysis
+
+I'm continuing to improve the project and its documentation. The repository is the best place to explore the code and current progress.
+
+## 🎯 What I'm focusing on
+
+- Strengthening Python, SQL, and data-analysis fundamentals.
+- Learning to build and evaluate machine-learning workflows responsibly.
+- Creating practical applications that connect software with real problems.
+- Writing better documentation and making projects easier to reproduce.
+
+## 🤝 What you'll find here
+
+You'll find a mix of projects, experiments, and things I'm learning along the way. My goal is not just to make something work, but to understand **why it works, where it falls short, and how it can be improved**.
+
+I'm especially interested in student projects, collaborative learning, and opportunities to learn from other developers.
+
+## 🌐 Connect with me
+
+- **GitHub:** [@theamankalwar](https://github.com/theamankalwar)
+- **LinkedIn:** [Aman Kumar](https://www.linkedin.com/in/theamankalwar/)
+- **Email:** [theamankalwar@gmail.com](mailto:theamankalwar@gmail.com)
+
+<p align="center">
+  <i>Build with curiosity. Learn by doing. Improve one iteration at a time.</i>
 </p>
