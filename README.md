@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aman Kumar 👋</h1>
 
 <p align="center">
-  <strong>Computer Science Student · Data Science & Machine Learning · Full-Stack Development</strong>
+  <strong>Computer Engineering Student · Data Science & Machine Learning · Full-Stack Development</strong>
 </p>
 
 <p align="center">
@@ -20,47 +20,62 @@
 
 ## 👋 A little about me
 
-I'm a Computer Science student who enjoys working at the intersection of **data and software**. I'm exploring Data Science and Machine Learning while growing my web-development skills, and I learn best by turning concepts into practical projects.
+I'm a Computer Engineering student at Marwadi University interested in the intersection of **data and software**. I'm developing my skills in Data Science and Machine Learning while continuing to grow my web-development abilities through practical projects.
 
 - 🔎 Exploring data analysis, machine learning, and ways to make data useful.
-- 💻 Building my foundation in web development and application design.
+- 💻 Building projects that connect software with real-world problems.
 - 🧠 Improving my problem-solving skills through practice and experimentation.
-- 🛠️ Learning to make projects clearer, more reproducible, and easier for others to run.
+- 🛠️ Learning to make projects clear, reproducible, and easier for others to run.
 
 ## 🧰 Technologies & tools
 
-**Languages and data**  
+**Programming and data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Web development**  
+**Visualization and apps**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Web development and tools**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured project
+## 🚀 Featured projects
+
+### [Household Electricity Consumption Analysis & Classification](https://github.com/theamankalwar/household-electricity-classification)
+
+A Python project using the UCI Individual Household Electric Power Consumption dataset to explore usage patterns, preprocess measurements, and compare Decision Tree and Logistic Regression classifiers. Includes a Streamlit dashboard with visualizations and an interactive High/Low consumption classifier.
+
+- **[Try the live Streamlit demo](https://household-electricity-classification.streamlit.app/)**
+- **Tech:** Python, Pandas, NumPy, Matplotlib, scikit-learn, Streamlit
+- **Current experiment:** Decision Tree accuracy 99.17%; Logistic Regression accuracy 99.24% on a random 100,000-record sample.
+
+*The High/Low labels are derived from observed active-power readings and use related contemporaneous measurements as inputs. These results describe the current classification setup; they do not demonstrate future electricity forecasting.*
 
 ### [Food Waste Prediction & Risk Analysis](https://github.com/theamankalwar/food-waste-prediction-ml)
 
-A machine-learning and data-mining project exploring food-waste prediction and related risk analysis.
+A machine-learning and data-mining project exploring food-waste prediction and risk analysis.
 
-**Project focus:** data analysis · machine learning · risk analysis
-
-I'm continuing to improve the project and its documentation. The repository is the best place to explore the code and current progress.
+- Compared regression models using chronological validation.
+- Extended the analysis with K-Means clustering, Apriori association-rule mining, sensitivity analysis, and SHAP-based explanations.
+- See the repository for the notebook, methodology, and notebook-reported evaluation results.
 
 ## 🎯 What I'm focusing on
 
 - Strengthening Python, SQL, and data-analysis fundamentals.
 - Learning to build and evaluate machine-learning workflows responsibly.
 - Creating practical applications that connect software with real problems.
-- Writing better documentation and making projects easier to reproduce.
+- Improving documentation and reproducibility.
 
 ## 🤝 What you'll find here
 
